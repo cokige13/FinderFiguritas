@@ -6,151 +6,22 @@
    "codigo": "FWC",
    "titulo": "Especiales",
    "emblema": "🏆",
-   "conteo": 9,
-   "especial": true
+   "especial": true,
+   "desde": 0,
+   "conteo": 9
   },
   {
-   "codigo": "CAN",
-   "titulo": "Canadá",
-   "emblema": "🇨🇦",
-   "conteo": 20
+   "codigo": "FWC",
+   "titulo": "Historia Copa Mundial",
+   "emblema": "🏆",
+   "especial": true,
+   "desde": 9,
+   "conteo": 11
   },
   {
    "codigo": "MEX",
    "titulo": "México",
    "emblema": "🇲🇽",
-   "conteo": 20
-  },
-  {
-   "codigo": "USA",
-   "titulo": "Estados Unidos",
-   "emblema": "🇺🇸",
-   "conteo": 20
-  },
-  {
-   "codigo": "ARG",
-   "titulo": "Argentina",
-   "emblema": "🇦🇷",
-   "conteo": 20
-  },
-  {
-   "codigo": "BRA",
-   "titulo": "Brasil",
-   "emblema": "🇧🇷",
-   "conteo": 20
-  },
-  {
-   "codigo": "URU",
-   "titulo": "Uruguay",
-   "emblema": "🇺🇾",
-   "conteo": 20
-  },
-  {
-   "codigo": "COL",
-   "titulo": "Colombia",
-   "emblema": "🇨🇴",
-   "conteo": 20
-  },
-  {
-   "codigo": "ECU",
-   "titulo": "Ecuador",
-   "emblema": "🇪🇨",
-   "conteo": 20
-  },
-  {
-   "codigo": "PAR",
-   "titulo": "Paraguay",
-   "emblema": "🇵🇾",
-   "conteo": 20
-  },
-  {
-   "codigo": "JPN",
-   "titulo": "Japón",
-   "emblema": "🇯🇵",
-   "conteo": 20
-  },
-  {
-   "codigo": "KOR",
-   "titulo": "Corea del Sur",
-   "emblema": "🇰🇷",
-   "conteo": 20
-  },
-  {
-   "codigo": "IRN",
-   "titulo": "Irán",
-   "emblema": "🇮🇷",
-   "conteo": 20
-  },
-  {
-   "codigo": "AUS",
-   "titulo": "Australia",
-   "emblema": "🇦🇺",
-   "conteo": 20
-  },
-  {
-   "codigo": "KSA",
-   "titulo": "Arabia Saudita",
-   "emblema": "🇸🇦",
-   "conteo": 20
-  },
-  {
-   "codigo": "QAT",
-   "titulo": "Catar",
-   "emblema": "🇶🇦",
-   "conteo": 20
-  },
-  {
-   "codigo": "MAR",
-   "titulo": "Marruecos",
-   "emblema": "🇲🇦",
-   "conteo": 20
-  },
-  {
-   "codigo": "SEN",
-   "titulo": "Senegal",
-   "emblema": "🇸🇳",
-   "conteo": 20
-  },
-  {
-   "codigo": "TUN",
-   "titulo": "Túnez",
-   "emblema": "🇹🇳",
-   "conteo": 20
-  },
-  {
-   "codigo": "ALG",
-   "titulo": "Argelia",
-   "emblema": "🇩🇿",
-   "conteo": 20
-  },
-  {
-   "codigo": "EGY",
-   "titulo": "Egipto",
-   "emblema": "🇪🇬",
-   "conteo": 20
-  },
-  {
-   "codigo": "NGA",
-   "titulo": "Nigeria",
-   "emblema": "🇳🇬",
-   "conteo": 20
-  },
-  {
-   "codigo": "CMR",
-   "titulo": "Camerún",
-   "emblema": "🇨🇲",
-   "conteo": 20
-  },
-  {
-   "codigo": "GHA",
-   "titulo": "Ghana",
-   "emblema": "🇬🇭",
-   "conteo": 20
-  },
-  {
-   "codigo": "CIV",
-   "titulo": "Costa de Marfil",
-   "emblema": "🇨🇮",
    "conteo": 20
   },
   {
@@ -160,57 +31,33 @@
    "conteo": 20
   },
   {
-   "codigo": "ESP",
-   "titulo": "España",
-   "emblema": "🇪🇸",
+   "codigo": "KOR",
+   "titulo": "Corea del Sur",
+   "emblema": "🇰🇷",
    "conteo": 20
   },
   {
-   "codigo": "FRA",
-   "titulo": "Francia",
-   "emblema": "🇫🇷",
+   "codigo": "CZE",
+   "titulo": "Chequia",
+   "emblema": "🇨🇿",
    "conteo": 20
   },
   {
-   "codigo": "ENG",
-   "titulo": "Inglaterra",
-   "emblema": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+   "codigo": "CAN",
+   "titulo": "Canadá",
+   "emblema": "🇨🇦",
    "conteo": 20
   },
   {
-   "codigo": "GER",
-   "titulo": "Alemania",
-   "emblema": "🇩🇪",
+   "codigo": "BIH",
+   "titulo": "Bosnia y Herzegovina",
+   "emblema": "🇧🇦",
    "conteo": 20
   },
   {
-   "codigo": "POR",
-   "titulo": "Portugal",
-   "emblema": "🇵🇹",
-   "conteo": 20
-  },
-  {
-   "codigo": "NED",
-   "titulo": "Países Bajos",
-   "emblema": "🇳🇱",
-   "conteo": 20
-  },
-  {
-   "codigo": "ITA",
-   "titulo": "Italia",
-   "emblema": "🇮🇹",
-   "conteo": 20
-  },
-  {
-   "codigo": "BEL",
-   "titulo": "Bélgica",
-   "emblema": "🇧🇪",
-   "conteo": 20
-  },
-  {
-   "codigo": "CRO",
-   "titulo": "Croacia",
-   "emblema": "🇭🇷",
+   "codigo": "QAT",
+   "titulo": "Catar",
+   "emblema": "🇶🇦",
    "conteo": 20
   },
   {
@@ -220,45 +67,21 @@
    "conteo": 20
   },
   {
-   "codigo": "DEN",
-   "titulo": "Dinamarca",
-   "emblema": "🇩🇰",
+   "codigo": "USA",
+   "titulo": "Estados Unidos",
+   "emblema": "🇺🇸",
    "conteo": 20
   },
   {
-   "codigo": "AUT",
-   "titulo": "Austria",
-   "emblema": "🇦🇹",
+   "codigo": "PAR",
+   "titulo": "Paraguay",
+   "emblema": "🇵🇾",
    "conteo": 20
   },
   {
-   "codigo": "SRB",
-   "titulo": "Serbia",
-   "emblema": "🇷🇸",
-   "conteo": 20
-  },
-  {
-   "codigo": "POL",
-   "titulo": "Polonia",
-   "emblema": "🇵🇱",
-   "conteo": 20
-  },
-  {
-   "codigo": "UKR",
-   "titulo": "Ucrania",
-   "emblema": "🇺🇦",
-   "conteo": 20
-  },
-  {
-   "codigo": "SWE",
-   "titulo": "Suecia",
-   "emblema": "🇸🇪",
-   "conteo": 20
-  },
-  {
-   "codigo": "WAL",
-   "titulo": "Gales",
-   "emblema": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+   "codigo": "AUS",
+   "titulo": "Australia",
+   "emblema": "🇦🇺",
    "conteo": 20
   },
   {
@@ -268,9 +91,15 @@
    "conteo": 20
   },
   {
-   "codigo": "NOR",
-   "titulo": "Noruega",
-   "emblema": "🇳🇴",
+   "codigo": "BRA",
+   "titulo": "Brasil",
+   "emblema": "🇧🇷",
+   "conteo": 20
+  },
+  {
+   "codigo": "HAI",
+   "titulo": "Haití",
+   "emblema": "🇭🇹",
    "conteo": 20
   },
   {
@@ -280,15 +109,195 @@
    "conteo": 20
   },
   {
-   "codigo": "GRE",
-   "titulo": "Grecia",
-   "emblema": "🇬🇷",
+   "codigo": "MAR",
+   "titulo": "Marruecos",
+   "emblema": "🇲🇦",
    "conteo": 20
   },
   {
-   "codigo": "CRC",
-   "titulo": "Costa Rica",
-   "emblema": "🇨🇷",
+   "codigo": "GER",
+   "titulo": "Alemania",
+   "emblema": "🇩🇪",
+   "conteo": 20
+  },
+  {
+   "codigo": "CIV",
+   "titulo": "Costa de Marfil",
+   "emblema": "🇨🇮",
+   "conteo": 20
+  },
+  {
+   "codigo": "ECU",
+   "titulo": "Ecuador",
+   "emblema": "🇪🇨",
+   "conteo": 20
+  },
+  {
+   "codigo": "CUR",
+   "titulo": "Curazao",
+   "emblema": "🇨🇼",
+   "conteo": 20
+  },
+  {
+   "codigo": "NED",
+   "titulo": "Países Bajos",
+   "emblema": "🇳🇱",
+   "conteo": 20
+  },
+  {
+   "codigo": "JPN",
+   "titulo": "Japón",
+   "emblema": "🇯🇵",
+   "conteo": 20
+  },
+  {
+   "codigo": "SWE",
+   "titulo": "Suecia",
+   "emblema": "🇸🇪",
+   "conteo": 20
+  },
+  {
+   "codigo": "TUN",
+   "titulo": "Túnez",
+   "emblema": "🇹🇳",
+   "conteo": 20
+  },
+  {
+   "codigo": "IRN",
+   "titulo": "Irán",
+   "emblema": "🇮🇷",
+   "conteo": 20
+  },
+  {
+   "codigo": "NZL",
+   "titulo": "Nueva Zelanda",
+   "emblema": "🇳🇿",
+   "conteo": 20
+  },
+  {
+   "codigo": "BEL",
+   "titulo": "Bélgica",
+   "emblema": "🇧🇪",
+   "conteo": 20
+  },
+  {
+   "codigo": "EGY",
+   "titulo": "Egipto",
+   "emblema": "🇪🇬",
+   "conteo": 20
+  },
+  {
+   "codigo": "ESP",
+   "titulo": "España",
+   "emblema": "🇪🇸",
+   "conteo": 20
+  },
+  {
+   "codigo": "CPV",
+   "titulo": "Cabo Verde",
+   "emblema": "🇨🇻",
+   "conteo": 20
+  },
+  {
+   "codigo": "KSA",
+   "titulo": "Arabia Saudita",
+   "emblema": "🇸🇦",
+   "conteo": 20
+  },
+  {
+   "codigo": "URU",
+   "titulo": "Uruguay",
+   "emblema": "🇺🇾",
+   "conteo": 20
+  },
+  {
+   "codigo": "FRA",
+   "titulo": "Francia",
+   "emblema": "🇫🇷",
+   "conteo": 20
+  },
+  {
+   "codigo": "SEN",
+   "titulo": "Senegal",
+   "emblema": "🇸🇳",
+   "conteo": 20
+  },
+  {
+   "codigo": "IRQ",
+   "titulo": "Irak",
+   "emblema": "🇮🇶",
+   "conteo": 20
+  },
+  {
+   "codigo": "NOR",
+   "titulo": "Noruega",
+   "emblema": "🇳🇴",
+   "conteo": 20
+  },
+  {
+   "codigo": "ARG",
+   "titulo": "Argentina",
+   "emblema": "🇦🇷",
+   "conteo": 20
+  },
+  {
+   "codigo": "ALG",
+   "titulo": "Argelia",
+   "emblema": "🇩🇿",
+   "conteo": 20
+  },
+  {
+   "codigo": "AUT",
+   "titulo": "Austria",
+   "emblema": "🇦🇹",
+   "conteo": 20
+  },
+  {
+   "codigo": "JOR",
+   "titulo": "Jordania",
+   "emblema": "🇯🇴",
+   "conteo": 20
+  },
+  {
+   "codigo": "POR",
+   "titulo": "Portugal",
+   "emblema": "🇵🇹",
+   "conteo": 20
+  },
+  {
+   "codigo": "COD",
+   "titulo": "RD Congo",
+   "emblema": "🇨🇩",
+   "conteo": 20
+  },
+  {
+   "codigo": "UZB",
+   "titulo": "Uzbekistán",
+   "emblema": "🇺🇿",
+   "conteo": 20
+  },
+  {
+   "codigo": "COL",
+   "titulo": "Colombia",
+   "emblema": "🇨🇴",
+   "conteo": 20
+  },
+  {
+   "codigo": "ENG",
+   "titulo": "Inglaterra",
+   "emblema": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+   "conteo": 20
+  },
+  {
+   "codigo": "CRO",
+   "titulo": "Croacia",
+   "emblema": "🇭🇷",
+   "conteo": 20
+  },
+  {
+   "codigo": "GHA",
+   "titulo": "Ghana",
+   "emblema": "🇬🇭",
    "conteo": 20
   },
   {
@@ -296,6 +305,13 @@
    "titulo": "Panamá",
    "emblema": "🇵🇦",
    "conteo": 20
+  },
+  {
+   "codigo": "CC",
+   "titulo": "Coca-Cola",
+   "emblema": "🥤",
+   "conteo": 14,
+   "especial": true
   }
  ]
 }
