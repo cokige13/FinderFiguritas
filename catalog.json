@@ -2,8 +2,8 @@
  "albumes": [
   {
    "id": "mundial2026",
-   "nombre": "Mundial 2026",
-   "archivo": "albums/mundial2026.json"
+   "nombre": "Copa Mundial FIFA 2026 Panini",
+   "archivo": "albums/mundial2026Panini.json"
   }
  ]
 }
