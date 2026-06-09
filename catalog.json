@@ -4,6 +4,11 @@
    "id": "mundial2026",
    "nombre": "Copa Mundial FIFA 2026 Panini",
    "archivo": "albums/mundial2026Panini.json"
+  },
+  {
+   "id": "qatar2022",
+   "nombre": "Mundial Qatar 2022",
+   "archivo": "albums/qatar2022.json"
   }
  ]
 }

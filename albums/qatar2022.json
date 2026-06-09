@@ -1,0 +1,520 @@
+{
+ "id": "qatar2022",
+ "nombre": "Copa Mundial FIFA Qatar 2022 Panini",
+ "logoCompleto": "logos/copa_fifa_2022.png",
+ "secciones": [
+  {
+   "codigo": "INTRO",
+   "titulo": "Introducción",
+   "emblema": "📖",
+   "especial": true,
+   "color": "#8A1538",
+   "conteo": 10
+  },
+  {
+   "codigo": "FWC",
+   "titulo": "FIFA World Cup",
+   "emblema": "🏆",
+   "especial": true,
+   "color": "#8A1538",
+   "desde": 0,
+   "conteo": 8
+  },
+  {
+   "codigo": "EST",
+   "titulo": "Estadios",
+   "emblema": "🏟️",
+   "especial": true,
+   "color": "#6E6E6E",
+   "conteo": 12
+  },
+  {
+   "codigo": "MUS",
+   "titulo": "FIFA Museum",
+   "emblema": "🏛️",
+   "especial": true,
+   "color": "#B08D57",
+   "conteo": 6
+  },
+  {
+   "codigo": "QAT",
+   "titulo": "Catar",
+   "emblema": "🇶🇦",
+   "imagen": "flags/flag_qat.png",
+   "conteo": 19,
+   "color": "#751A46",
+   "nombres": {
+    "en": "Qatar",
+    "fr": "Qatar",
+    "pt": "Catar",
+    "de": "Katar",
+    "it": "Qatar"
+   }
+  },
+  {
+   "codigo": "ECU",
+   "titulo": "Ecuador",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_ecu.png",
+   "conteo": 19,
+   "color": "#FEDA44",
+   "nombres": {
+    "en": "Ecuador",
+    "fr": "Équateur",
+    "pt": "Equador",
+    "de": "Ecuador",
+    "it": "Ecuador"
+   }
+  },
+  {
+   "codigo": "SEN",
+   "titulo": "Senegal",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_sen.png",
+   "conteo": 19,
+   "color": "#FFDA44",
+   "nombres": {
+    "en": "Senegal",
+    "fr": "Sénégal",
+    "pt": "Senegal",
+    "de": "Senegal",
+    "it": "Senegal"
+   }
+  },
+  {
+   "codigo": "NED",
+   "titulo": "Países Bajos",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_ned.png",
+   "conteo": 19,
+   "color": "#A2001D",
+   "nombres": {
+    "en": "Netherlands",
+    "fr": "Pays-Bas",
+    "pt": "Países Baixos",
+    "de": "Niederlande",
+    "it": "Paesi Bassi"
+   }
+  },
+  {
+   "codigo": "ENG",
+   "titulo": "Inglaterra",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_eng.png",
+   "conteo": 19,
+   "color": "#D80228",
+   "nombres": {
+    "en": "England",
+    "fr": "Angleterre",
+    "pt": "Inglaterra",
+    "de": "England",
+    "it": "Inghilterra"
+   }
+  },
+  {
+   "codigo": "IRN",
+   "titulo": "Irán",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_irn.png",
+   "conteo": 19,
+   "color": "#D80127",
+   "nombres": {
+    "en": "Iran",
+    "fr": "Iran",
+    "pt": "Irã",
+    "de": "Iran",
+    "it": "Iran"
+   }
+  },
+  {
+   "codigo": "USA",
+   "titulo": "Estados Unidos",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_usa.png",
+   "conteo": 19,
+   "color": "#D80328",
+   "nombres": {
+    "en": "United States",
+    "fr": "États-Unis",
+    "pt": "Estados Unidos",
+    "de": "Vereinigte Staaten",
+    "it": "Stati Uniti"
+   }
+  },
+  {
+   "codigo": "WAL",
+   "titulo": "Gales",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_wal.png",
+   "conteo": 19,
+   "color": "#6DA544",
+   "nombres": {
+    "en": "Wales",
+    "fr": "Pays de Galles",
+    "pt": "País de Gales",
+    "de": "Wales",
+    "it": "Galles"
+   }
+  },
+  {
+   "codigo": "ARG",
+   "titulo": "Argentina",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_arg.png",
+   "conteo": 19,
+   "color": "#338AF3",
+   "nombres": {
+    "en": "Argentina",
+    "fr": "Argentine",
+    "pt": "Argentina",
+    "de": "Argentinien",
+    "it": "Argentina"
+   }
+  },
+  {
+   "codigo": "KSA",
+   "titulo": "Arabia Saudita",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_ksa.png",
+   "conteo": 19,
+   "color": "#486E2C",
+   "nombres": {
+    "en": "Saudi Arabia",
+    "fr": "Arabie Saoudite",
+    "pt": "Arábia Saudita",
+    "de": "Saudi-Arabien",
+    "it": "Arabia Saudita"
+   }
+  },
+  {
+   "codigo": "MEX",
+   "titulo": "México",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_mex.png",
+   "conteo": 19,
+   "color": "#D80127",
+   "nombres": {
+    "en": "Mexico",
+    "fr": "Mexique",
+    "pt": "México",
+    "de": "Mexiko",
+    "it": "Messico"
+   }
+  },
+  {
+   "codigo": "POL",
+   "titulo": "Polonia",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_pol.png",
+   "conteo": 19,
+   "color": "#D80027",
+   "nombres": {
+    "en": "Poland",
+    "fr": "Pologne",
+    "pt": "Polônia",
+    "de": "Polen",
+    "it": "Polonia"
+   }
+  },
+  {
+   "codigo": "FRA",
+   "titulo": "Francia",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_fra.png",
+   "conteo": 19,
+   "color": "#0052B4",
+   "nombres": {
+    "en": "France",
+    "fr": "France",
+    "pt": "França",
+    "de": "Frankreich",
+    "it": "Francia"
+   }
+  },
+  {
+   "codigo": "AUS",
+   "titulo": "Australia",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_aus.png",
+   "conteo": 19,
+   "color": "#0052B4",
+   "nombres": {
+    "en": "Australia",
+    "fr": "Australie",
+    "pt": "Austrália",
+    "de": "Australien",
+    "it": "Australia"
+   }
+  },
+  {
+   "codigo": "DEN",
+   "titulo": "Dinamarca",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_den.png",
+   "conteo": 19,
+   "color": "#D80027",
+   "nombres": {
+    "en": "Denmark",
+    "fr": "Danemark",
+    "pt": "Dinamarca",
+    "de": "Dänemark",
+    "it": "Danimarca"
+   }
+  },
+  {
+   "codigo": "TUN",
+   "titulo": "Túnez",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_tun.png",
+   "conteo": 19,
+   "color": "#D80027",
+   "nombres": {
+    "en": "Tunisia",
+    "fr": "Tunisie",
+    "pt": "Tunísia",
+    "de": "Tunesien",
+    "it": "Tunisia"
+   }
+  },
+  {
+   "codigo": "ESP",
+   "titulo": "España",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_esp.png",
+   "conteo": 19,
+   "color": "#FFD944",
+   "nombres": {
+    "en": "Spain",
+    "fr": "Espagne",
+    "pt": "Espanha",
+    "de": "Spanien",
+    "it": "Spagna"
+   }
+  },
+  {
+   "codigo": "CRC",
+   "titulo": "Costa Rica",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_crc.png",
+   "conteo": 19,
+   "color": "#D80027",
+   "nombres": {
+    "en": "Costa Rica",
+    "fr": "Costa Rica",
+    "pt": "Costa Rica",
+    "de": "Costa Rica",
+    "it": "Costa Rica"
+   }
+  },
+  {
+   "codigo": "GER",
+   "titulo": "Alemania",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_ger.png",
+   "conteo": 19,
+   "color": "#D80127",
+   "nombres": {
+    "en": "Germany",
+    "fr": "Allemagne",
+    "pt": "Alemanha",
+    "de": "Deutschland",
+    "it": "Germania"
+   }
+  },
+  {
+   "codigo": "JPN",
+   "titulo": "Japón",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_jpn.png",
+   "conteo": 19,
+   "color": "#D80027",
+   "nombres": {
+    "en": "Japan",
+    "fr": "Japon",
+    "pt": "Japão",
+    "de": "Japan",
+    "it": "Giappone"
+   }
+  },
+  {
+   "codigo": "BEL",
+   "titulo": "Bélgica",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_bel.png",
+   "conteo": 19,
+   "color": "#FED944",
+   "nombres": {
+    "en": "Belgium",
+    "fr": "Belgique",
+    "pt": "Bélgica",
+    "de": "Belgien",
+    "it": "Belgio"
+   }
+  },
+  {
+   "codigo": "CAN",
+   "titulo": "Canadá",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_can.png",
+   "conteo": 19,
+   "color": "#D80127",
+   "nombres": {
+    "en": "Canada",
+    "fr": "Canada",
+    "pt": "Canadá",
+    "de": "Kanada",
+    "it": "Canada"
+   }
+  },
+  {
+   "codigo": "MAR",
+   "titulo": "Marruecos",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_mar.png",
+   "conteo": 19,
+   "color": "#D80027",
+   "nombres": {
+    "en": "Morocco",
+    "fr": "Maroc",
+    "pt": "Marrocos",
+    "de": "Marokko",
+    "it": "Marocco"
+   }
+  },
+  {
+   "codigo": "CRO",
+   "titulo": "Croacia",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_cro.png",
+   "conteo": 19,
+   "color": "#0052B5",
+   "nombres": {
+    "en": "Croatia",
+    "fr": "Croatie",
+    "pt": "Croácia",
+    "de": "Kroatien",
+    "it": "Croazia"
+   }
+  },
+  {
+   "codigo": "BRA",
+   "titulo": "Brasil",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_bra.png",
+   "conteo": 19,
+   "color": "#6DA544",
+   "nombres": {
+    "en": "Brazil",
+    "fr": "Brésil",
+    "pt": "Brasil",
+    "de": "Brasilien",
+    "it": "Brasile"
+   }
+  },
+  {
+   "codigo": "SRB",
+   "titulo": "Serbia",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_srb.png",
+   "conteo": 19,
+   "color": "#D80127",
+   "nombres": {
+    "en": "Serbia",
+    "fr": "Serbie",
+    "pt": "Sérvia",
+    "de": "Serbien",
+    "it": "Serbia"
+   }
+  },
+  {
+   "codigo": "SUI",
+   "titulo": "Suiza",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_sui.png",
+   "conteo": 19,
+   "color": "#D80027",
+   "nombres": {
+    "en": "Switzerland",
+    "fr": "Suisse",
+    "pt": "Suíça",
+    "de": "Schweiz",
+    "it": "Svizzera"
+   }
+  },
+  {
+   "codigo": "CMR",
+   "titulo": "Camerún",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_cmr.png",
+   "conteo": 19,
+   "color": "#D80027",
+   "nombres": {
+    "en": "Cameroon",
+    "fr": "Cameroun",
+    "pt": "Camarões",
+    "de": "Kamerun",
+    "it": "Camerun"
+   }
+  },
+  {
+   "codigo": "POR",
+   "titulo": "Portugal",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_por.png",
+   "conteo": 19,
+   "color": "#D80027",
+   "nombres": {
+    "en": "Portugal",
+    "fr": "Portugal",
+    "pt": "Portugal",
+    "de": "Portugal",
+    "it": "Portogallo"
+   }
+  },
+  {
+   "codigo": "GHA",
+   "titulo": "Ghana",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_gha.png",
+   "conteo": 19,
+   "color": "#FED944",
+   "nombres": {
+    "en": "Ghana",
+    "fr": "Ghana",
+    "pt": "Gana",
+    "de": "Ghana",
+    "it": "Ghana"
+   }
+  },
+  {
+   "codigo": "URU",
+   "titulo": "Uruguay",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_uru.png",
+   "conteo": 19,
+   "color": "#348AF3",
+   "nombres": {
+    "en": "Uruguay",
+    "fr": "Uruguay",
+    "pt": "Uruguai",
+    "de": "Uruguay",
+    "it": "Uruguay"
+   }
+  },
+  {
+   "codigo": "KOR",
+   "titulo": "Corea del Sur",
+   "emblema": "🏳️",
+   "imagen": "flags/flag_kor.png",
+   "conteo": 19,
+   "color": "#0153B5",
+   "nombres": {
+    "en": "South Korea",
+    "fr": "Corée du Sud",
+    "pt": "Coreia do Sul",
+    "de": "Südkorea",
+    "it": "Corea del Sud"
+   }
+  }
+ ]
+}
