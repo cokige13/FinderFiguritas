@@ -9,7 +9,14 @@
    "especial": true,
    "desde": 0,
    "conteo": 9,
-   "color": "#D4AF37"
+   "color": "#D4AF37",
+   "nombres": {
+    "en": "Specials",
+    "fr": "Spéciales",
+    "pt": "Especiais",
+    "de": "Spezial",
+    "it": "Speciali"
+   }
   },
   {
    "codigo": "FWC",
@@ -18,7 +25,14 @@
    "especial": true,
    "desde": 9,
    "conteo": 11,
-   "color": "#B08D57"
+   "color": "#B08D57",
+   "nombres": {
+    "en": "World Cup History",
+    "fr": "Histoire de la Coupe",
+    "pt": "História da Copa",
+    "de": "WM-Geschichte",
+    "it": "Storia della Coppa"
+   }
   },
   {
    "codigo": "MEX",
@@ -71,7 +85,14 @@
    "emblema": "🇨🇿",
    "conteo": 20,
    "color": "#D80027",
-   "imagen": "flags/flag_cze.png"
+   "imagen": "flags/flag_cze.png",
+   "nombres": {
+    "en": "Czechia",
+    "fr": "Tchéquie",
+    "pt": "Chéquia",
+    "de": "Tschechien",
+    "it": "Cechia"
+   }
   },
   {
    "codigo": "CAN",
@@ -94,7 +115,14 @@
    "emblema": "🇧🇦",
    "conteo": 20,
    "color": "#FFDA44",
-   "imagen": "flags/flag_bih.png"
+   "imagen": "flags/flag_bih.png",
+   "nombres": {
+    "en": "Bosnia and Herzegovina",
+    "fr": "Bosnie-Herzégovine",
+    "pt": "Bósnia e Herzegovina",
+    "de": "Bosnien und Herzegowina",
+    "it": "Bosnia ed Erzegovina"
+   }
   },
   {
    "codigo": "QAT",
@@ -207,7 +235,14 @@
    "emblema": "🇭🇹",
    "conteo": 20,
    "color": "#A2001D",
-   "imagen": "flags/flag_hai.png"
+   "imagen": "flags/flag_hai.png",
+   "nombres": {
+    "en": "Haiti",
+    "fr": "Haïti",
+    "pt": "Haiti",
+    "de": "Haiti",
+    "it": "Haiti"
+   }
   },
   {
    "codigo": "SCO",
@@ -290,7 +325,14 @@
    "emblema": "🇨🇼",
    "conteo": 20,
    "color": "#0052B4",
-   "imagen": "flags/flag_cur.png"
+   "imagen": "flags/flag_cur.png",
+   "nombres": {
+    "en": "Curaçao",
+    "fr": "Curaçao",
+    "pt": "Curaçao",
+    "de": "Curaçao",
+    "it": "Curaçao"
+   }
   },
   {
    "codigo": "NED",
@@ -373,7 +415,14 @@
    "emblema": "🇳🇿",
    "conteo": 20,
    "color": "#0152B4",
-   "imagen": "flags/flag_nzl.png"
+   "imagen": "flags/flag_nzl.png",
+   "nombres": {
+    "en": "New Zealand",
+    "fr": "Nouvelle-Zélande",
+    "pt": "Nova Zelândia",
+    "de": "Neuseeland",
+    "it": "Nuova Zelanda"
+   }
   },
   {
    "codigo": "BEL",
@@ -426,7 +475,14 @@
    "emblema": "🇨🇻",
    "conteo": 20,
    "color": "#0052B4",
-   "imagen": "flags/flag_cpv.png"
+   "imagen": "flags/flag_cpv.png",
+   "nombres": {
+    "en": "Cape Verde",
+    "fr": "Cap-Vert",
+    "pt": "Cabo Verde",
+    "de": "Kap Verde",
+    "it": "Capo Verde"
+   }
   },
   {
    "codigo": "KSA",
@@ -494,7 +550,14 @@
    "emblema": "🇮🇶",
    "conteo": 20,
    "color": "#333333",
-   "imagen": "flags/flag_irq.png"
+   "imagen": "flags/flag_irq.png",
+   "nombres": {
+    "en": "Iraq",
+    "fr": "Irak",
+    "pt": "Iraque",
+    "de": "Irak",
+    "it": "Iraq"
+   }
   },
   {
    "codigo": "NOR",
@@ -562,7 +625,14 @@
    "emblema": "🇯🇴",
    "conteo": 20,
    "color": "#333333",
-   "imagen": "flags/flag_jor.png"
+   "imagen": "flags/flag_jor.png",
+   "nombres": {
+    "en": "Jordan",
+    "fr": "Jordanie",
+    "pt": "Jordânia",
+    "de": "Jordanien",
+    "it": "Giordania"
+   }
   },
   {
    "codigo": "POR",
@@ -585,7 +655,14 @@
    "emblema": "🇨🇩",
    "conteo": 20,
    "color": "#338AF3",
-   "imagen": "flags/flag_cod.png"
+   "imagen": "flags/flag_cod.png",
+   "nombres": {
+    "en": "DR Congo",
+    "fr": "RD Congo",
+    "pt": "RD Congo",
+    "de": "DR Kongo",
+    "it": "RD Congo"
+   }
   },
   {
    "codigo": "UZB",
@@ -593,7 +670,14 @@
    "emblema": "🇺🇿",
    "conteo": 20,
    "color": "#6DA544",
-   "imagen": "flags/flag_uzb.png"
+   "imagen": "flags/flag_uzb.png",
+   "nombres": {
+    "en": "Uzbekistan",
+    "fr": "Ouzbékistan",
+    "pt": "Uzbequistão",
+    "de": "Usbekistan",
+    "it": "Uzbekistan"
+   }
   },
   {
    "codigo": "COL",
@@ -677,7 +761,14 @@
    "conteo": 14,
    "especial": true,
    "color": "#E2231A",
-   "logoFestejo": "logos/coca_cola.png"
+   "logoFestejo": "logos/coca_cola.png",
+   "nombres": {
+    "en": "Coca-Cola",
+    "fr": "Coca-Cola",
+    "pt": "Coca-Cola",
+    "de": "Coca-Cola",
+    "it": "Coca-Cola"
+   }
   }
  ],
  "logoCompleto": "logos/copa_fifa_2026.png"

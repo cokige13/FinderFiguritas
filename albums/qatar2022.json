@@ -4,37 +4,52 @@
  "logoCompleto": "logos/copa_fifa_2022.png",
  "secciones": [
   {
-   "codigo": "INTRO",
-   "titulo": "Introducción",
-   "emblema": "📖",
-   "especial": true,
-   "color": "#8A1538",
-   "conteo": 10
-  },
-  {
    "codigo": "FWC",
-   "titulo": "FIFA World Cup",
+   "titulo": "Especiales",
    "emblema": "🏆",
    "especial": true,
    "color": "#8A1538",
    "desde": 0,
-   "conteo": 8
+   "conteo": 8,
+   "nombres": {
+    "en": "Specials",
+    "fr": "Spéciales",
+    "pt": "Especiais",
+    "de": "Spezial",
+    "it": "Speciali"
+   }
   },
   {
-   "codigo": "EST",
+   "codigo": "FWC",
    "titulo": "Estadios",
    "emblema": "🏟️",
    "especial": true,
    "color": "#6E6E6E",
-   "conteo": 12
+   "desde": 8,
+   "conteo": 11,
+   "nombres": {
+    "en": "Stadiums",
+    "fr": "Stades",
+    "pt": "Estádios",
+    "de": "Stadien",
+    "it": "Stadi"
+   }
   },
   {
-   "codigo": "MUS",
-   "titulo": "FIFA Museum",
+   "codigo": "FWC",
+   "titulo": "Línea de Tiempo Copa Mundial",
    "emblema": "🏛️",
    "especial": true,
    "color": "#B08D57",
-   "conteo": 6
+   "desde": 19,
+   "conteo": 11,
+   "nombres": {
+    "en": "World Cup Timeline",
+    "fr": "Chronologie de la Coupe",
+    "pt": "Linha do Tempo da Copa",
+    "de": "WM-Zeitleiste",
+    "it": "Cronologia della Coppa"
+   }
   },
   {
    "codigo": "QAT",
@@ -54,7 +69,7 @@
   {
    "codigo": "ECU",
    "titulo": "Ecuador",
-   "emblema": "🏳️",
+   "emblema": "🇪🇨",
    "imagen": "flags/flag_ecu.png",
    "conteo": 19,
    "color": "#FEDA44",
@@ -69,7 +84,7 @@
   {
    "codigo": "SEN",
    "titulo": "Senegal",
-   "emblema": "🏳️",
+   "emblema": "🇸🇳",
    "imagen": "flags/flag_sen.png",
    "conteo": 19,
    "color": "#FFDA44",
@@ -84,7 +99,7 @@
   {
    "codigo": "NED",
    "titulo": "Países Bajos",
-   "emblema": "🏳️",
+   "emblema": "🇳🇱",
    "imagen": "flags/flag_ned.png",
    "conteo": 19,
    "color": "#A2001D",
@@ -99,7 +114,7 @@
   {
    "codigo": "ENG",
    "titulo": "Inglaterra",
-   "emblema": "🏳️",
+   "emblema": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
    "imagen": "flags/flag_eng.png",
    "conteo": 19,
    "color": "#D80228",
@@ -114,7 +129,7 @@
   {
    "codigo": "IRN",
    "titulo": "Irán",
-   "emblema": "🏳️",
+   "emblema": "🇮🇷",
    "imagen": "flags/flag_irn.png",
    "conteo": 19,
    "color": "#D80127",
@@ -129,7 +144,7 @@
   {
    "codigo": "USA",
    "titulo": "Estados Unidos",
-   "emblema": "🏳️",
+   "emblema": "🇺🇸",
    "imagen": "flags/flag_usa.png",
    "conteo": 19,
    "color": "#D80328",
@@ -144,7 +159,7 @@
   {
    "codigo": "WAL",
    "titulo": "Gales",
-   "emblema": "🏳️",
+   "emblema": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
    "imagen": "flags/flag_wal.png",
    "conteo": 19,
    "color": "#6DA544",
@@ -159,7 +174,7 @@
   {
    "codigo": "ARG",
    "titulo": "Argentina",
-   "emblema": "🏳️",
+   "emblema": "🇦🇷",
    "imagen": "flags/flag_arg.png",
    "conteo": 19,
    "color": "#338AF3",
@@ -174,7 +189,7 @@
   {
    "codigo": "KSA",
    "titulo": "Arabia Saudita",
-   "emblema": "🏳️",
+   "emblema": "🇸🇦",
    "imagen": "flags/flag_ksa.png",
    "conteo": 19,
    "color": "#486E2C",
@@ -189,7 +204,7 @@
   {
    "codigo": "MEX",
    "titulo": "México",
-   "emblema": "🏳️",
+   "emblema": "🇲🇽",
    "imagen": "flags/flag_mex.png",
    "conteo": 19,
    "color": "#D80127",
@@ -204,7 +219,7 @@
   {
    "codigo": "POL",
    "titulo": "Polonia",
-   "emblema": "🏳️",
+   "emblema": "🇵🇱",
    "imagen": "flags/flag_pol.png",
    "conteo": 19,
    "color": "#D80027",
@@ -219,7 +234,7 @@
   {
    "codigo": "FRA",
    "titulo": "Francia",
-   "emblema": "🏳️",
+   "emblema": "🇫🇷",
    "imagen": "flags/flag_fra.png",
    "conteo": 19,
    "color": "#0052B4",
@@ -234,7 +249,7 @@
   {
    "codigo": "AUS",
    "titulo": "Australia",
-   "emblema": "🏳️",
+   "emblema": "🇦🇺",
    "imagen": "flags/flag_aus.png",
    "conteo": 19,
    "color": "#0052B4",
@@ -249,7 +264,7 @@
   {
    "codigo": "DEN",
    "titulo": "Dinamarca",
-   "emblema": "🏳️",
+   "emblema": "🇩🇰",
    "imagen": "flags/flag_den.png",
    "conteo": 19,
    "color": "#D80027",
@@ -264,7 +279,7 @@
   {
    "codigo": "TUN",
    "titulo": "Túnez",
-   "emblema": "🏳️",
+   "emblema": "🇹🇳",
    "imagen": "flags/flag_tun.png",
    "conteo": 19,
    "color": "#D80027",
@@ -279,7 +294,7 @@
   {
    "codigo": "ESP",
    "titulo": "España",
-   "emblema": "🏳️",
+   "emblema": "🇪🇸",
    "imagen": "flags/flag_esp.png",
    "conteo": 19,
    "color": "#FFD944",
@@ -294,7 +309,7 @@
   {
    "codigo": "CRC",
    "titulo": "Costa Rica",
-   "emblema": "🏳️",
+   "emblema": "🇨🇷",
    "imagen": "flags/flag_crc.png",
    "conteo": 19,
    "color": "#D80027",
@@ -309,7 +324,7 @@
   {
    "codigo": "GER",
    "titulo": "Alemania",
-   "emblema": "🏳️",
+   "emblema": "🇩🇪",
    "imagen": "flags/flag_ger.png",
    "conteo": 19,
    "color": "#D80127",
@@ -324,7 +339,7 @@
   {
    "codigo": "JPN",
    "titulo": "Japón",
-   "emblema": "🏳️",
+   "emblema": "🇯🇵",
    "imagen": "flags/flag_jpn.png",
    "conteo": 19,
    "color": "#D80027",
@@ -339,7 +354,7 @@
   {
    "codigo": "BEL",
    "titulo": "Bélgica",
-   "emblema": "🏳️",
+   "emblema": "🇧🇪",
    "imagen": "flags/flag_bel.png",
    "conteo": 19,
    "color": "#FED944",
@@ -354,7 +369,7 @@
   {
    "codigo": "CAN",
    "titulo": "Canadá",
-   "emblema": "🏳️",
+   "emblema": "🇨🇦",
    "imagen": "flags/flag_can.png",
    "conteo": 19,
    "color": "#D80127",
@@ -369,7 +384,7 @@
   {
    "codigo": "MAR",
    "titulo": "Marruecos",
-   "emblema": "🏳️",
+   "emblema": "🇲🇦",
    "imagen": "flags/flag_mar.png",
    "conteo": 19,
    "color": "#D80027",
@@ -384,7 +399,7 @@
   {
    "codigo": "CRO",
    "titulo": "Croacia",
-   "emblema": "🏳️",
+   "emblema": "🇭🇷",
    "imagen": "flags/flag_cro.png",
    "conteo": 19,
    "color": "#0052B5",
@@ -399,7 +414,7 @@
   {
    "codigo": "BRA",
    "titulo": "Brasil",
-   "emblema": "🏳️",
+   "emblema": "🇧🇷",
    "imagen": "flags/flag_bra.png",
    "conteo": 19,
    "color": "#6DA544",
@@ -414,7 +429,7 @@
   {
    "codigo": "SRB",
    "titulo": "Serbia",
-   "emblema": "🏳️",
+   "emblema": "🇷🇸",
    "imagen": "flags/flag_srb.png",
    "conteo": 19,
    "color": "#D80127",
@@ -429,7 +444,7 @@
   {
    "codigo": "SUI",
    "titulo": "Suiza",
-   "emblema": "🏳️",
+   "emblema": "🇨🇭",
    "imagen": "flags/flag_sui.png",
    "conteo": 19,
    "color": "#D80027",
@@ -444,7 +459,7 @@
   {
    "codigo": "CMR",
    "titulo": "Camerún",
-   "emblema": "🏳️",
+   "emblema": "🇨🇲",
    "imagen": "flags/flag_cmr.png",
    "conteo": 19,
    "color": "#D80027",
@@ -459,7 +474,7 @@
   {
    "codigo": "POR",
    "titulo": "Portugal",
-   "emblema": "🏳️",
+   "emblema": "🇵🇹",
    "imagen": "flags/flag_por.png",
    "conteo": 19,
    "color": "#D80027",
@@ -474,7 +489,7 @@
   {
    "codigo": "GHA",
    "titulo": "Ghana",
-   "emblema": "🏳️",
+   "emblema": "🇬🇭",
    "imagen": "flags/flag_gha.png",
    "conteo": 19,
    "color": "#FED944",
@@ -489,7 +504,7 @@
   {
    "codigo": "URU",
    "titulo": "Uruguay",
-   "emblema": "🏳️",
+   "emblema": "🇺🇾",
    "imagen": "flags/flag_uru.png",
    "conteo": 19,
    "color": "#348AF3",
@@ -504,7 +519,7 @@
   {
    "codigo": "KOR",
    "titulo": "Corea del Sur",
-   "emblema": "🏳️",
+   "emblema": "🇰🇷",
    "imagen": "flags/flag_kor.png",
    "conteo": 19,
    "color": "#0153B5",
