@@ -8,7 +8,8 @@
    "emblema": "🏆",
    "especial": true,
    "desde": 0,
-   "conteo": 9
+   "conteo": 9,
+   "color": "#D4AF37"
   },
   {
    "codigo": "FWC",
@@ -16,302 +17,668 @@
    "emblema": "📜",
    "especial": true,
    "desde": 9,
-   "conteo": 11
+   "conteo": 11,
+   "color": "#B08D57"
   },
   {
    "codigo": "MEX",
    "titulo": "México",
    "emblema": "🇲🇽",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80127",
+   "imagen": "flags/flag_mex.png",
+   "nombres": {
+    "en": "Mexico",
+    "fr": "Mexique",
+    "pt": "México",
+    "de": "Mexiko",
+    "it": "Messico"
+   }
   },
   {
    "codigo": "RSA",
    "titulo": "Sudáfrica",
    "emblema": "🇿🇦",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#0052B4",
+   "imagen": "flags/flag_rsa.png",
+   "nombres": {
+    "en": "South Africa",
+    "fr": "Afrique du Sud",
+    "pt": "África do Sul",
+    "de": "Südafrika",
+    "it": "Sudafrica"
+   }
   },
   {
    "codigo": "KOR",
    "titulo": "Corea del Sur",
    "emblema": "🇰🇷",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#0153B5",
+   "imagen": "flags/flag_kor.png",
+   "nombres": {
+    "en": "South Korea",
+    "fr": "Corée du Sud",
+    "pt": "Coreia do Sul",
+    "de": "Südkorea",
+    "it": "Corea del Sud"
+   }
   },
   {
    "codigo": "CZE",
    "titulo": "Chequia",
    "emblema": "🇨🇿",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80027",
+   "imagen": "flags/flag_cze.png"
   },
   {
    "codigo": "CAN",
    "titulo": "Canadá",
    "emblema": "🇨🇦",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80127",
+   "imagen": "flags/flag_can.png",
+   "nombres": {
+    "en": "Canada",
+    "fr": "Canada",
+    "pt": "Canadá",
+    "de": "Kanada",
+    "it": "Canada"
+   }
   },
   {
    "codigo": "BIH",
    "titulo": "Bosnia y Herzegovina",
    "emblema": "🇧🇦",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#FFDA44",
+   "imagen": "flags/flag_bih.png"
   },
   {
    "codigo": "QAT",
    "titulo": "Catar",
    "emblema": "🇶🇦",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#751A46",
+   "imagen": "flags/flag_qat.png",
+   "nombres": {
+    "en": "Qatar",
+    "fr": "Qatar",
+    "pt": "Catar",
+    "de": "Katar",
+    "it": "Qatar"
+   }
   },
   {
    "codigo": "SUI",
    "titulo": "Suiza",
    "emblema": "🇨🇭",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80027",
+   "imagen": "flags/flag_sui.png",
+   "nombres": {
+    "en": "Switzerland",
+    "fr": "Suisse",
+    "pt": "Suíça",
+    "de": "Schweiz",
+    "it": "Svizzera"
+   }
   },
   {
    "codigo": "USA",
    "titulo": "Estados Unidos",
    "emblema": "🇺🇸",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80328",
+   "imagen": "flags/flag_usa.png",
+   "nombres": {
+    "en": "United States",
+    "fr": "États-Unis",
+    "pt": "Estados Unidos",
+    "de": "Vereinigte Staaten",
+    "it": "Stati Uniti"
+   }
   },
   {
    "codigo": "PAR",
    "titulo": "Paraguay",
    "emblema": "🇵🇾",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#0052B4",
+   "imagen": "flags/flag_par.png",
+   "nombres": {
+    "en": "Paraguay",
+    "fr": "Paraguay",
+    "pt": "Paraguai",
+    "de": "Paraguay",
+    "it": "Paraguay"
+   }
   },
   {
    "codigo": "AUS",
    "titulo": "Australia",
    "emblema": "🇦🇺",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#0052B4",
+   "imagen": "flags/flag_aus.png",
+   "nombres": {
+    "en": "Australia",
+    "fr": "Australie",
+    "pt": "Austrália",
+    "de": "Australien",
+    "it": "Australia"
+   }
   },
   {
    "codigo": "TUR",
    "titulo": "Turquía",
    "emblema": "🇹🇷",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80027",
+   "imagen": "flags/flag_tur.png",
+   "nombres": {
+    "en": "Turkey",
+    "fr": "Turquie",
+    "pt": "Turquia",
+    "de": "Türkei",
+    "it": "Turchia"
+   }
   },
   {
    "codigo": "BRA",
    "titulo": "Brasil",
    "emblema": "🇧🇷",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#6DA544",
+   "imagen": "flags/flag_bra.png",
+   "nombres": {
+    "en": "Brazil",
+    "fr": "Brésil",
+    "pt": "Brasil",
+    "de": "Brasilien",
+    "it": "Brasile"
+   }
   },
   {
    "codigo": "HAI",
    "titulo": "Haití",
    "emblema": "🇭🇹",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#A2001D",
+   "imagen": "flags/flag_hai.png"
   },
   {
    "codigo": "SCO",
    "titulo": "Escocia",
    "emblema": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#0052B4",
+   "imagen": "flags/flag_sco.png",
+   "nombres": {
+    "en": "Scotland",
+    "fr": "Écosse",
+    "pt": "Escócia",
+    "de": "Schottland",
+    "it": "Scozia"
+   }
   },
   {
    "codigo": "MAR",
    "titulo": "Marruecos",
    "emblema": "🇲🇦",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80027",
+   "imagen": "flags/flag_mar.png",
+   "nombres": {
+    "en": "Morocco",
+    "fr": "Maroc",
+    "pt": "Marrocos",
+    "de": "Marokko",
+    "it": "Marocco"
+   }
   },
   {
    "codigo": "GER",
    "titulo": "Alemania",
    "emblema": "🇩🇪",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80127",
+   "imagen": "flags/flag_ger.png",
+   "nombres": {
+    "en": "Germany",
+    "fr": "Allemagne",
+    "pt": "Alemanha",
+    "de": "Deutschland",
+    "it": "Germania"
+   }
   },
   {
    "codigo": "CIV",
    "titulo": "Costa de Marfil",
    "emblema": "🇨🇮",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#FF9811",
+   "imagen": "flags/flag_civ.png",
+   "nombres": {
+    "en": "Ivory Coast",
+    "fr": "Côte d'Ivoire",
+    "pt": "Costa do Marfim",
+    "de": "Elfenbeinküste",
+    "it": "Costa d'Avorio"
+   }
   },
   {
    "codigo": "ECU",
    "titulo": "Ecuador",
    "emblema": "🇪🇨",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#FEDA44",
+   "imagen": "flags/flag_ecu.png",
+   "nombres": {
+    "en": "Ecuador",
+    "fr": "Équateur",
+    "pt": "Equador",
+    "de": "Ecuador",
+    "it": "Ecuador"
+   }
   },
   {
    "codigo": "CUR",
    "titulo": "Curazao",
    "emblema": "🇨🇼",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#0052B4",
+   "imagen": "flags/flag_cur.png"
   },
   {
    "codigo": "NED",
    "titulo": "Países Bajos",
    "emblema": "🇳🇱",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#A2001D",
+   "imagen": "flags/flag_ned.png",
+   "nombres": {
+    "en": "Netherlands",
+    "fr": "Pays-Bas",
+    "pt": "Países Baixos",
+    "de": "Niederlande",
+    "it": "Paesi Bassi"
+   }
   },
   {
    "codigo": "JPN",
    "titulo": "Japón",
    "emblema": "🇯🇵",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80027",
+   "imagen": "flags/flag_jpn.png",
+   "nombres": {
+    "en": "Japan",
+    "fr": "Japon",
+    "pt": "Japão",
+    "de": "Japan",
+    "it": "Giappone"
+   }
   },
   {
    "codigo": "SWE",
    "titulo": "Suecia",
    "emblema": "🇸🇪",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#0052B4",
+   "imagen": "flags/flag_swe.png",
+   "nombres": {
+    "en": "Sweden",
+    "fr": "Suède",
+    "pt": "Suécia",
+    "de": "Schweden",
+    "it": "Svezia"
+   }
   },
   {
    "codigo": "TUN",
    "titulo": "Túnez",
    "emblema": "🇹🇳",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80027",
+   "imagen": "flags/flag_tun.png",
+   "nombres": {
+    "en": "Tunisia",
+    "fr": "Tunisie",
+    "pt": "Tunísia",
+    "de": "Tunesien",
+    "it": "Tunisia"
+   }
   },
   {
    "codigo": "IRN",
    "titulo": "Irán",
    "emblema": "🇮🇷",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80127",
+   "imagen": "flags/flag_irn.png",
+   "nombres": {
+    "en": "Iran",
+    "fr": "Iran",
+    "pt": "Irã",
+    "de": "Iran",
+    "it": "Iran"
+   }
   },
   {
    "codigo": "NZL",
    "titulo": "Nueva Zelanda",
    "emblema": "🇳🇿",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#0152B4",
+   "imagen": "flags/flag_nzl.png"
   },
   {
    "codigo": "BEL",
    "titulo": "Bélgica",
    "emblema": "🇧🇪",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#FED944",
+   "imagen": "flags/flag_bel.png",
+   "nombres": {
+    "en": "Belgium",
+    "fr": "Belgique",
+    "pt": "Bélgica",
+    "de": "Belgien",
+    "it": "Belgio"
+   }
   },
   {
    "codigo": "EGY",
    "titulo": "Egipto",
    "emblema": "🇪🇬",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#343434",
+   "imagen": "flags/flag_egy.png",
+   "nombres": {
+    "en": "Egypt",
+    "fr": "Égypte",
+    "pt": "Egito",
+    "de": "Ägypten",
+    "it": "Egitto"
+   }
   },
   {
    "codigo": "ESP",
    "titulo": "España",
    "emblema": "🇪🇸",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#FFD944",
+   "imagen": "flags/flag_esp.png",
+   "nombres": {
+    "en": "Spain",
+    "fr": "Espagne",
+    "pt": "Espanha",
+    "de": "Spanien",
+    "it": "Spagna"
+   }
   },
   {
    "codigo": "CPV",
    "titulo": "Cabo Verde",
    "emblema": "🇨🇻",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#0052B4",
+   "imagen": "flags/flag_cpv.png"
   },
   {
    "codigo": "KSA",
    "titulo": "Arabia Saudita",
    "emblema": "🇸🇦",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#486E2C",
+   "imagen": "flags/flag_ksa.png",
+   "nombres": {
+    "en": "Saudi Arabia",
+    "fr": "Arabie Saoudite",
+    "pt": "Arábia Saudita",
+    "de": "Saudi-Arabien",
+    "it": "Arabia Saudita"
+   }
   },
   {
    "codigo": "URU",
    "titulo": "Uruguay",
    "emblema": "🇺🇾",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#348AF3",
+   "imagen": "flags/flag_uru.png",
+   "nombres": {
+    "en": "Uruguay",
+    "fr": "Uruguay",
+    "pt": "Uruguai",
+    "de": "Uruguay",
+    "it": "Uruguay"
+   }
   },
   {
    "codigo": "FRA",
    "titulo": "Francia",
    "emblema": "🇫🇷",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#0052B4",
+   "imagen": "flags/flag_fra.png",
+   "nombres": {
+    "en": "France",
+    "fr": "France",
+    "pt": "França",
+    "de": "Frankreich",
+    "it": "Francia"
+   }
   },
   {
    "codigo": "SEN",
    "titulo": "Senegal",
    "emblema": "🇸🇳",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#FFDA44",
+   "imagen": "flags/flag_sen.png",
+   "nombres": {
+    "en": "Senegal",
+    "fr": "Sénégal",
+    "pt": "Senegal",
+    "de": "Senegal",
+    "it": "Senegal"
+   }
   },
   {
    "codigo": "IRQ",
    "titulo": "Irak",
    "emblema": "🇮🇶",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#333333",
+   "imagen": "flags/flag_irq.png"
   },
   {
    "codigo": "NOR",
    "titulo": "Noruega",
    "emblema": "🇳🇴",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80027",
+   "imagen": "flags/flag_nor.png",
+   "nombres": {
+    "en": "Norway",
+    "fr": "Norvège",
+    "pt": "Noruega",
+    "de": "Norwegen",
+    "it": "Norvegia"
+   }
   },
   {
    "codigo": "ARG",
    "titulo": "Argentina",
    "emblema": "🇦🇷",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#338AF3",
+   "imagen": "flags/flag_arg.png",
+   "nombres": {
+    "en": "Argentina",
+    "fr": "Argentine",
+    "pt": "Argentina",
+    "de": "Argentinien",
+    "it": "Argentina"
+   }
   },
   {
    "codigo": "ALG",
    "titulo": "Argelia",
    "emblema": "🇩🇿",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#496E2D",
+   "imagen": "flags/flag_alg.png",
+   "nombres": {
+    "en": "Algeria",
+    "fr": "Algérie",
+    "pt": "Argélia",
+    "de": "Algerien",
+    "it": "Algeria"
+   }
   },
   {
    "codigo": "AUT",
    "titulo": "Austria",
    "emblema": "🇦🇹",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80027",
+   "imagen": "flags/flag_aut.png",
+   "nombres": {
+    "en": "Austria",
+    "fr": "Autriche",
+    "pt": "Áustria",
+    "de": "Österreich",
+    "it": "Austria"
+   }
   },
   {
    "codigo": "JOR",
    "titulo": "Jordania",
    "emblema": "🇯🇴",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#333333",
+   "imagen": "flags/flag_jor.png"
   },
   {
    "codigo": "POR",
    "titulo": "Portugal",
    "emblema": "🇵🇹",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80027",
+   "imagen": "flags/flag_por.png",
+   "nombres": {
+    "en": "Portugal",
+    "fr": "Portugal",
+    "pt": "Portugal",
+    "de": "Portugal",
+    "it": "Portogallo"
+   }
   },
   {
    "codigo": "COD",
    "titulo": "RD Congo",
    "emblema": "🇨🇩",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#338AF3",
+   "imagen": "flags/flag_cod.png"
   },
   {
    "codigo": "UZB",
    "titulo": "Uzbekistán",
    "emblema": "🇺🇿",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#6DA544",
+   "imagen": "flags/flag_uzb.png"
   },
   {
    "codigo": "COL",
    "titulo": "Colombia",
    "emblema": "🇨🇴",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#FFDA44",
+   "imagen": "flags/flag_col.png",
+   "nombres": {
+    "en": "Colombia",
+    "fr": "Colombie",
+    "pt": "Colômbia",
+    "de": "Kolumbien",
+    "it": "Colombia"
+   }
   },
   {
    "codigo": "ENG",
    "titulo": "Inglaterra",
    "emblema": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#D80228",
+   "imagen": "flags/flag_eng.png",
+   "nombres": {
+    "en": "England",
+    "fr": "Angleterre",
+    "pt": "Inglaterra",
+    "de": "England",
+    "it": "Inghilterra"
+   }
   },
   {
    "codigo": "CRO",
    "titulo": "Croacia",
    "emblema": "🇭🇷",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#0052B5",
+   "imagen": "flags/flag_cro.png",
+   "nombres": {
+    "en": "Croatia",
+    "fr": "Croatie",
+    "pt": "Croácia",
+    "de": "Kroatien",
+    "it": "Croazia"
+   }
   },
   {
    "codigo": "GHA",
    "titulo": "Ghana",
    "emblema": "🇬🇭",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#FED944",
+   "imagen": "flags/flag_gha.png",
+   "nombres": {
+    "en": "Ghana",
+    "fr": "Ghana",
+    "pt": "Gana",
+    "de": "Ghana",
+    "it": "Ghana"
+   }
   },
   {
    "codigo": "PAN",
    "titulo": "Panamá",
    "emblema": "🇵🇦",
-   "conteo": 20
+   "conteo": 20,
+   "color": "#0152B4",
+   "imagen": "flags/flag_pan.png",
+   "nombres": {
+    "en": "Panama",
+    "fr": "Panama",
+    "pt": "Panamá",
+    "de": "Panama",
+    "it": "Panama"
+   }
   },
   {
    "codigo": "CC",
    "titulo": "Coca-Cola",
    "emblema": "🥤",
    "conteo": 14,
-   "especial": true
+   "especial": true,
+   "color": "#E2231A",
+   "logoFestejo": "logos/coca_cola.png"
   }
- ]
+ ],
+ "logoCompleto": "logos/copa.png"
 }
